@@ -1,0 +1,11 @@
+.nav{ 
+    background-color: red;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+}
+.logo{width: 4%;}
+.logo:hover{
+    transform: rotate(180deg);
+    cursor: pointer;
+}
